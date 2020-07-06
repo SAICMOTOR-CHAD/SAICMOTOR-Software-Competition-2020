@@ -3,6 +3,13 @@ SAICMOTOR Software Competition 2020
  
 任务一——数据驱动的智能驾驶 官方Github仓库
 
+## 重要更新
+| 时间 | 任务 | 更新内容 |
+| --- | --- | --- |
+| 2020-7-7 | 任务一领域1 | [数据及链接更新](update1) |
+
+## 赛题内容
+
 > 随着机器学习、深度学习的在车端研发的快速普及应用，上汽集团智能化车辆迅猛发展。大数据时代下，基于数据的迭代将会让智能驾驶车辆不断的学习和成长！在这个过程中，有以下几个领域：
 
 > * 领域一：停车位图像数据识别   
@@ -28,8 +35,8 @@ SAICMOTOR Software Competition 2020
 - 作品提交：请根据《“上汽杯”大学生汽车软件挑战赛作品提交模板》要求完成作品报告，并以“任务名称-队长在读学校-队长姓名-队长手机号码-参赛人数”为邮件主题，发往`jishengyuan@saicmotor.com`，附件请勿超出10M，如果超出限值建议发网盘地址
 
 ## 数据集下载
-* 领域一  
-[百度网盘 (提取码：v94x)](https://pan.baidu.com/s/1RFXa2CP8wMDGfT7N5pNm9w)
+* <span id="update1">领域一</span>  
+[百度网盘 (提取码：e4sl)](https://pan.baidu.com/s/1i0YurHSK-ajNY_KLmxAbzQ)
 
 * 领域二  
 [百度网盘 (提取码：n90t)](https://pan.baidu.com/s/19bRF2hupHre2es8RwC5T8g)
