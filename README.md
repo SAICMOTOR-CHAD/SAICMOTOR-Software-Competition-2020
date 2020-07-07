@@ -6,7 +6,8 @@ SAICMOTOR Software Competition 2020
 ## 重要更新
 | 时间 | 任务 | 更新内容 |
 | --- | --- | --- |
-| 2020-7-7 | 任务一领域1 | [数据及链接更新](#update1) |
+| 2020-7-7 07:00| 任务一领域1 | [数据及链接更新](#update1) |
+| 2020-7-7 20:20| 任务一领域1 | [数据及链接更新](#update2) |
 
 ## 赛题内容
 
@@ -31,8 +32,8 @@ SAICMOTOR Software Competition 2020
 - 作品提交：请根据《“上汽杯”大学生汽车软件挑战赛作品提交模板》要求完成作品报告，并以“任务名称-队长在读学校-队长姓名-队长手机号码-参赛人数”为邮件主题，发往`jishengyuan@saicmotor.com`，附件请勿超出10M，如果超出限值建议发网盘地址
 
 ## 数据集下载
-* <span id="update1">领域一</span>  
-[百度网盘 (提取码：e4sl)](https://pan.baidu.com/s/1i0YurHSK-ajNY_KLmxAbzQ)
+* <span id="update2"><span id="update1">领域一</span></span>   
+[百度网盘 (提取码：n311)](https://pan.baidu.com/s/1ngcruuzI0uL1uOGNj5zOZw)
 
 * 领域二  
 [百度网盘 (提取码：n90t)](https://pan.baidu.com/s/19bRF2hupHre2es8RwC5T8g)
